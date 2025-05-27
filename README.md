@@ -1,1 +1,1 @@
-# Day1_prac.sql
+Tatvasoft_Summer_Internship_Tasks
